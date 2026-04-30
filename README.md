@@ -170,7 +170,6 @@ git push origin feat/minha-feature
 ## Contato
 
 - Maintainer: Thiago (thiagofjau)
-- Repo remoto: https://github.com/thiagofjau/chofairdriver_pi.git
 
 ---
 
