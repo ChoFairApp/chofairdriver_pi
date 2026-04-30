@@ -1,6 +1,6 @@
-# Chofair Driver App — Modernização (2023 → 2026)
+# Chofair Driver App
 
-Este repositório contém a versão modernizada do Chofair Driver App (motorista), atualizada e refeita para funcionar com as versões recentes do Flutter, Firebase e Android build tools.
+Este repositório contém a versão do Chofair Driver App (motorista), atualizada para funcionar com as versões recentes do Flutter, Firebase e Android build tools.
 
 ## Visão Geral
 
@@ -174,4 +174,3 @@ git push origin feat/minha-feature
 
 ---
 
-_README gerado em Março de 2026 por assistente. Para instruções mais detalhadas e exemplos de código, consulte os guias incluídos no repositório._
